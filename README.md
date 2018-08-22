@@ -8,14 +8,14 @@ the user chooses two cards to reveal the icons behind them, if the cards are mat
 ## Built With
 the code for this game is  written in **JavaScript**.
 libraries used are:
-    - **JQuery**
+- **JQuery**
     http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
-    - **Sweetalert**
+- **Sweetalert**
     https://unpkg.com/sweetalert/dist/sweetalert.min.js
     
 fonts used:
-    - Google font family: Coda
+- Google font family: Coda
     https://fonts.googleapis.com/css?family=Coda
-    - font awesome
+- font awesome
     https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
