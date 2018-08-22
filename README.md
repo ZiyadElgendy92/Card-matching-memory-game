@@ -7,6 +7,7 @@ the user chooses two cards to reveal the icons behind them, if the cards are mat
 
 ## Built With
 the code for this game is  written in **JavaScript**.
+
 libraries used are:
 - **JQuery**
     http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
