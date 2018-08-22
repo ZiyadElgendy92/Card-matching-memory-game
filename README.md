@@ -10,7 +10,7 @@ the code for this game is  written in **JavaScript**.
 libraries used are:
     - **JQuery**
     http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
-    -**Sweetalert**
+    - **Sweetalert**
     https://unpkg.com/sweetalert/dist/sweetalert.min.js
     
 fonts used:
