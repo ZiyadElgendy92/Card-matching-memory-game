@@ -1,5 +1,5 @@
 # Memory Game Project
-front-end project for the intro to programming nanodegree program, by Ziyad Elgendy.
+a front-end project for Udacity's intro to programming nanodegree program, by Ziyad Elgendy.
 
 
 ## Instructions
